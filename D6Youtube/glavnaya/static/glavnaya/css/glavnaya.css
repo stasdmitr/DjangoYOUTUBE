@@ -1,0 +1,43 @@
+aside {
+    float: left;
+    background: #181818;
+    width: 10%;
+    padding: 2,5%;
+    height: 130vh;
+    color: #fff;
+    border-right: 5px solid #4d4d4d;
+}
+
+aside img {
+    width: 249px;
+    float: left;
+}
+aside ul{list-style: none}
+aside ul li {
+color: #fff;
+text-decoration: none;
+display: block;
+margin-top: 20px;
+transition: all .6s ease;
+}
+
+aside ul li:hover, aside ul a:hover {
+    color: #ed5959;
+    text-decoration: none;
+    transform: scale(1.1);
+
+
+     }
+
+aside h3{
+font-size: 20px;}
+
+main .features {
+float: left;
+color: #fff;
+margin-top: 100px;
+text-align: center;
+width: 75%;
+}
+
+body {background: #2c2c2c;}
